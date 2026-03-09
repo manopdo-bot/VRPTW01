@@ -1,0 +1,5 @@
+{
+  "name": "VRP Optimizer Pro",
+  "description": "Vehicle Routing Problem solver with manual sequence and auto-optimization features.",
+  "requestFramePermissions": []
+}
